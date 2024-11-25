@@ -10,3 +10,13 @@ This repository contains a simple deep learning model designed to classify image
 + Dataset: Fashion-MNIST
 + Model Architecture: Sequential Dense Layers
 + Task: 10-class Classification
+
+
+# Regression(house_price)
+
+This repository provides a simple deep learning model for predicting housing prices in California. The model employs a sequential architecture consisting of dense layers.
+
+## Key Features:
++ Dataset: California_housing
++ Model Architecture: Sequential Dense Layers
++ Task: Housing Price Prediction
